@@ -205,3 +205,65 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* About page */
+
+.top-content-about {
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    border-bottom: 1px dashed black;
+}
+
+.middle-content-about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.about-img {
+    margin-bottom: 20px;
+}
+
+.p-about-boxes {
+    margin-bottom: 25px;
+}
+
+button {
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 9px;
+    padding: 10px 25px;
+
+}
+
+.about-box1 {
+    width: 45%;
+    padding-bottom: 20px ;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+
+}
+
+.about-box2 {
+    width: 45%;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+
+}
+
+.about-box3 {
+    width: 45%;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+
+}
+
+.about-box4 {
+    width: 45%;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+
+}
