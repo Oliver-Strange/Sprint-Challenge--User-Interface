@@ -87,6 +87,13 @@ header nav a {
     color: black;
 }
 
+header nav a:hover {
+    background-color: grey;
+    border-radius: 10px;
+    padding: 5px;
+    transform: scale(1.5)
+}
+
 .jumbo {
     margin-bottom: 30px;
 }
